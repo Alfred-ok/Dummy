@@ -5,10 +5,6 @@ function App() {
   return (
     <div className="App">
       William - Software Engineer
-      William - Software Engineer
-      William - Software Engineer
-      William - Software Engineer
-      Alfred Software Engineer
     </div>
   );
 }
